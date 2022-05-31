@@ -3,9 +3,6 @@ This repository stores my solutions to the amazing high-level programming projec
 
 ---
 
-<p align="center">
-<a target="_blank" href="https://www.holbertonschool.com/"><img src="https://github.com/monoprosito/holbertonschool-higher_level_programming/blob/master/holby.jpg?raw=true"></a>
-</p>
 
 ---
 
